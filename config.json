@@ -1,0 +1,15 @@
+{
+    "token": "token",
+    "clientId": "id bot",
+    "guildId": "server id",
+    "Dev": {
+        "VESDER": "id"
+    },
+    "color": {
+        "green": "#65ec0b",
+        "darkBlue": "#020096"
+    },
+    "guild": {
+        "category": "id category"
+    }
+}

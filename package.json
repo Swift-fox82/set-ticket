@@ -1,0 +1,14 @@
+{
+  "name": "ticket-discord",
+  "version": "0.0.1",
+  "description": "ticket bot ver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmdhyron",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
